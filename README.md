@@ -21,7 +21,7 @@ a partir de um determinado investimento em publicidade.
 
 Sobre os dados: Arquivo csv
 
-``` https://drive.google.com/file/d/1Hn4Jf2d3R0QWP2830Lgu7dYixoy8sQ6n/view```
+ https://drive.google.com/file/d/1Hn4Jf2d3R0QWP2830Lgu7dYixoy8sQ6n/view
 
 ## _🎯Etapas de Desenvolvimento_
 
